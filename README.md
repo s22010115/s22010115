@@ -11,8 +11,8 @@ I’m **Tarini**, a Software Engineering undergraduate exploring **software test
 ### 🛠️ Skills
 - **Programming:** Python, Java, JavaScript, SQL  
 - **Web:** HTML, CSS, JavaScript  
-- **Testing:** Manual Testing, Test Case Design, Bug Reporting  
-- **Tools:** Git, VS Code, Power BI  
+- **Testing:** Manual Testing, Test Case Design, Bug Reporting,  Automation
+- **Tools:** VS Code, Power BI  
 
 ### 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/tarini-buwanaji 
