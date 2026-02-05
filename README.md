@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**s22010115/s22010115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Tarini**, a Software Engineering undergraduate exploring **software testing, web development, and data-driven insights**.  
 
-Here are some ideas to get you started:
+💻 Skilled in **HTML, CSS, JavaScript, Python, and SQL**, with hands-on experience in building and analyzing applications to improve **functionality and user experience**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Interested in how **software development, testing, and data analysis** intersect to deliver **robust and efficient solutions**.  
+
+🌱 Continuously learning new technologies and enhancing practical **technical skills**.
+
+### 🛠️ Skills
+- **Programming:** Python, Java, JavaScript, SQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Testing:** Manual Testing, Test Case Design, Bug Reporting  
+- **Tools:** Git, VS Code, Power BI  
+
+### 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/tarini-buwanaji 
+- Email: tarinibuwanaji@gmail.com
+
+
